@@ -1,2 +1,3 @@
 This repository for ML model created for HR analytics.
 
+Google Colab Link: https://colab.research.google.com/drive/1g4etWZSXuOHxjRoL5CqrSIGl0xX5t1dS#scrollTo=-EF1lGprdaet
