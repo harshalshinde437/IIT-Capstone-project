@@ -186,6 +186,9 @@ Add allowed hosts in ALLOWED_HOSTS.
 ```
 - Use a reverse proxy like Nginx or Apache to serve the application.
 
+## Google Colab Link:
+Link: https://colab.research.google.com/drive/1g4etWZSXuOHxjRoL5CqrSIGl0xX5t1dS#scrollTo=R5gqpmuPf9gj
+
 ## Contribution
 1. Fork the repository.
 2. Create a new branch:
@@ -204,6 +207,11 @@ Add allowed hosts in ALLOWED_HOSTS.
 
 ## Contributor
 
-- Harshal Shinde (g23ai2045)
+- Harshal Shinde (G23AI2045) 
+- Rajendra Panda (G23AI2030) 
+- Aishwarya Salunkhe (G23AI2031) 
+- Yash Engendala (G23AI2064) 
+- Mounika V S (G23AI2099) 
+- Sandip Shaw (G23AI2095)
 
 
